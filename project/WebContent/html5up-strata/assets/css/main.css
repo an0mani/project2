@@ -379,7 +379,7 @@
 	}
 
 	.\36 u, .\36 u\24 {
-		width: 50%;
+		width: 45%;
 		clear: none;
 		margin-left: 0;
 	}
@@ -2488,11 +2488,11 @@
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
-		padding: 8em 4em;
+		padding: 11em 6em;
 		position: fixed;
 		text-align: right;
 		top: 0;
-		width: 35%;
+		width: 20%;
 	}
 
 		#header > * {
@@ -2569,11 +2569,11 @@
 
 /* Main */
 
-	#main {
-		margin-left: 35%;
+		#main {
+		margin-left: 20%;
 		max-width: 54em;
-		padding: 8em 4em 4em 4em;
-		width: calc(100% - 35%);
+		padding: 1em 4em 4em 2em;
+		width: calc(100% - 20%);
 	}
 
 		#main > section {
@@ -2924,7 +2924,7 @@
 
 		/* Header */
 
-			#header {
+			 #header {
 				background-attachment: scroll;
 				background-position: top left, center center;
 				background-size: auto,		cover;
@@ -2943,7 +2943,7 @@
 
 					#header h1 br {
 						display: inline;
-					}
+					} 
 
 		/* Footer */
 
