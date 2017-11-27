@@ -1,3 +1,8 @@
+/*
+	Phantom by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
 
 (function($) {
 
@@ -98,24 +103,6 @@
 			});
 
 		// Menu.
-			
-			$window.on('load', function() {
-
-	               $('#two').poptrox({
-	                  caption: function($a) { return $a.next('h3').text(); },
-	                  overlayColor: '#2c2c2c',
-	                  overlayOpacity: 0.85,
-	                  popupCloserText: '',
-	                  popupLoaderText: '',
-	                  selector: '.work-item a.image',
-	                  usePopupCaption: true,
-	                  usePopupDefaultStyling: false,
-	                  usePopupEasyClose: false,
-	                  usePopupNav: true,
-	                  windowMargin: (skel.breakpoint('small').active ? 0 : 50)
-	               });
-
-	            });
 			var $menu = $('#menu');
 
 			$menu.wrapInner('<div class="inner"></div>');
