@@ -3,6 +3,9 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
+<style type="text/css">
+#top{background-image: url("back_image/sunflower2.jpg");}
+</style>
 <link href="assets/css/main.css" rel="stylesheet" type="text/css">
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
@@ -25,6 +28,7 @@
 					crafted by <a href="http://html5up.net">HTML5 UP</a>.</h1> -->
 				</div>
 			</header>
+			
 
 		<!-- Main -->
 			<div id="main" style = "margin-left: 380px;padding-top: 50px;padding-bottom: 100px;padding-left: 50px;padding-right: 0px;border-bottom-width: 100px;">
