@@ -5,21 +5,22 @@
 <head>
 <style type="text/css">
 	#top {
-		background-color: #FFFFF6;
+		background-image: url("sunflower4.png");
+		background-repeat: no-repeat;
 	}
 	
-	#div1 {
+/* 	#three {
 		margin-left: 300px;
 		margin-right: 300px;
 		background-color: white;
-	}
+	} */
 </style>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
 <link rel="stylesheet" href="assets/css/main.css" />
 <link rel="stylesheet" href="http://fonts.googleapis.com/earlyaccess/nanumpenscript.css">
 <title>Insert title here</title>
 </head>
-<body id="top" background="background.jpg">
+<body id="top">
 	<section id="three">
 	<p></p>
 	<h1 align="center"><img src="check.png" width="100px" height="100px">Get in Touch</h1>
